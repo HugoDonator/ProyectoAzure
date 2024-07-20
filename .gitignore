@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+
+# Archivos de compilación
+build/
+dist/
+*.spec
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de configuración de IDE
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Otros archivos
+*.log
+*.db
+*.sqlite
